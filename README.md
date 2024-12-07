@@ -93,11 +93,11 @@ Training was conducted on a subset of **7,500 samples**, with both training and 
 ## **Results**
 ### **Loss Curve**
 - Training and validation loss over epochs:
-  ![Training and Validation Loss](Intrusion Detection with DoS attack/Figures/loss.png)
+  ![Training and Validation Loss](./Intrusion%20Detection%20with%20DoS%20attack/Figures/loss.png)
 
 ### **Accuracy Curve**
 - Training and validation accuracy over epochs:
-  ![Training and Validation Accuracy](Intrusion Detection with DoS attack/Figures/acc.png)
+  ![Training and Validation Accuracy](./Intrusion%20Detection%20with%20DoS%20attack/Figures/acc.png)
 
 ---
 
