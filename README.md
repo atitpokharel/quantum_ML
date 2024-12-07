@@ -21,4 +21,4 @@ Email: [ap1284@uah.edu](mailto:ap1284@uah.edu)
 ---
 
 ## **Acknowledgments**
-Special thanks to the Department of Electrical and Computer Engineering at UAH and Dr. Dinh Nguyen for providing resources and guidance for this repository.
+Special thanks to the Department of Electrical and Computer Engineering at UAH, Dr. Dinh Nguyen and Dr. Thomas Morris for providing resources and guidance for this repository.
