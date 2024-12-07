@@ -93,11 +93,11 @@ Training was conducted on a subset of **7,500 samples**, with both training and 
 ## **Results**
 ### **Loss Curve**
 - Training and validation loss over epochs:
-  ![Training and Validation Loss](./Hybrid%20QNN%20for%20IDS/Figures/loss.png)
+  ![Training and Validation Loss](Figures/loss.png)
 
 ### **Accuracy Curve**
 - Training and validation accuracy over epochs:
-  ![Training and Validation Accuracy](./Hybrid%20QNN%20for%20IDS/Figures/acc.png)
+  ![Training and Validation Accuracy](Figures/acc.png)
 
 ---
 
