@@ -97,7 +97,7 @@ Training was conducted on a subset of **7,500 samples**, with both training and 
 
 ### **Accuracy Curve**
 - Training and validation accuracy over epochs:
-  ![Training and Validation Accuracy](./Intrusion%20Detection%20with%20DoS%20attack/Figures/acc.png)
+  ![Training and Validation Accuracy](./Hybrid%20QNN%20for%20IDS/Figures/acc.png)
 
 ---
 
