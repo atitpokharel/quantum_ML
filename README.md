@@ -10,7 +10,7 @@ This project demonstrates a hybrid classical-quantum neural network using **Tens
   - Features include packet and device metrics such as `frame.len`, `temperature`, `pitch`, etc.
   - Class labels are one-hot encoded for binary classification.
 - **Quantum Circuit**:
-  - **5 qubits**, each representing input features.
+  - **5 qubits**
   - **2 quantum layers** with parameterized gates (RX, RY, RZ).
   - Entanglement achieved using **CNOT gates**.
 - **Hybrid Model**:
